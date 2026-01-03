@@ -36,7 +36,7 @@ A robust, modular Flutter application designed for efficient inventory managemen
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/warehouse-scanner.git](https://github.com/yourusername/warehouse-scanner.git)
+    git clone [https://github.com/albrahui/parts-scanner.git](https://github.com/parts-scanner/parts-scanner.git)
     cd warehouse-scanner
     ```
 
@@ -103,3 +103,4 @@ csv: generating spreadsheet files
 path_provider: finding device directories
 share_plus: sharing files
 permission_handler: managing Android permissions
+
