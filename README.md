@@ -1,6 +1,6 @@
 Markdown
 
-# 📦 Warehouse Scanner App
+# 📦 parts-scanner App
 
 A robust, modular Flutter application designed for efficient inventory management. This app scans barcodes, matches them against a local product database (with smart logic for partial matches), tracks quantities, and exports shipment data to CSV.
 
@@ -36,8 +36,8 @@ A robust, modular Flutter application designed for efficient inventory managemen
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/albrahui/parts-scanner.git](https://github.com/parts-scanner/parts-scanner.git)
-    cd warehouse-scanner
+    git clone  https://github.com/albrahui/parts-scanner.git
+    cd parts-scanner
     ```
 
 2.  **Install dependencies:**
@@ -103,4 +103,5 @@ csv: generating spreadsheet files
 path_provider: finding device directories
 share_plus: sharing files
 permission_handler: managing Android permissions
+
 
