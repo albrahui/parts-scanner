@@ -1,0 +1,18 @@
+{
+    "timestamp": 1766356193,
+    "data": [
+        {
+            "id": 1214788699,
+            "sku": "A 112 188 04 01",
+            "name": "مبرد زيت سيفون 112 مع قاعدة السبفون",
+            "price": 100,
+            "description": "</p>منتج درجة اولى</p>",
+            "quantity": 5,
+            "status": "sale",
+            "is_available": true,
+            "weight": 2,
+            "weight_type": "kg"
+        }
+
+    ]
+}
